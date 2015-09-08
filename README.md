@@ -8,7 +8,7 @@ Example files and exercises for Bruce A. Tate's book *Seven Languages in Seven W
 
 [Day2](ruby/day2): Examples for file IO, using advanced data structures, functions and blocks, including a simple version of [grep](ruby/day2/grep.rb). A simple [tree implementation](ruby/day2/tree.rb) illustrates these concepts and explains some of the magic in Ruby.
 
-[Day3](ruby/day3): Ruby's object model and metaprogramming exercises.
+[Day3](ruby/day3): Ruby's object model and metaprogramming exercises. For example, mixins and metaprogramming can be used to handle [CSV files](ruby/day3/acts_as_csv_module.rb) conveniently. 
 
 
 ## Python
